@@ -1,0 +1,13 @@
+
+.white {font-family:georgia; color:red;}
+
+a { text-decoration:none;padding:0px 10px;font-family:georgia; color:white;}
+
+nav {position:fixed; top:0.0; left:0; right:0;}
+
+.smartphone {border:solid 2px black; border-radius:10px; border-bottom-width:20px; border-top-width:5px;}
+.nav-bar {background:grey; border:solid red 2px;}
+
+section {margin-top:80px; overflow:hidden;}
+
+nav  {background:black;}

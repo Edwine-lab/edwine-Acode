@@ -1,0 +1,14 @@
+section  {background:url(sky.jpg);}
+.white {font-family:georgia; color:red; font-weight:bold;}
+
+a { text-decoration:none;padding:0px 10px;font-family:georgia; color:white;}
+
+nav {position:fixed; top:0; left:0; right:0;}
+
+.nav-bar {background:grey; border:solid red 2px;}
+
+section {margin-top:85px; background:url(sky.jpg); overflow:hidden;}
+
+nav {background:black;}
+
+h {color:red;font-weight:bold;font-family:georgia;}
