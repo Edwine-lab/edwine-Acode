@@ -1,72 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://edwinetech.tk/</loc>
-  <lastmod>2021-09-11T19:22:49+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://edwinetech.tk/</loc>
+<lastmod>2021-09-30T23:50:17+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://edwinetech.tk/index.html</loc>
-  <lastmod>2021-09-11T19:22:49+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://edwinetech.tk/index.html</loc>
+<lastmod>2021-09-30T23:50:17+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://edwinetech.tk/tutorials.html</loc>
-  <lastmod>2021-09-11T19:22:49+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://edwinetech.tk/tutorials.html</loc>
+<lastmod>2021-09-30T23:50:17+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://edwinetech.tk/blogs.html</loc>
-  <lastmod>2021-09-11T19:22:49+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://edwinetech.tk/blogs.html</loc>
+<lastmod>2021-09-30T23:50:17+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://edwinetech.tk/tutorial1.html</loc>
-  <lastmod>2021-09-11T19:22:49+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://edwinetech.tk/tutorial1.html</loc>
+<lastmod>2021-09-30T23:50:17+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://edwinetech.tk/tutorial2.html</loc>
-  <lastmod>2021-09-11T19:22:49+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://edwinetech.tk/tutorial2.html</loc>
+<lastmod>2021-09-30T23:50:17+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://edwinetech.tk/cctv.html</loc>
-  <lastmod>2021-09-11T19:22:49+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://edwinetech.tk/cctv.html</loc>
+<lastmod>2021-09-30T23:50:17+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://edwinetech.tk/tutorial3.html</loc>
-  <lastmod>2021-09-11T19:22:49+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://edwinetech.tk/tutorial3.html</loc>
+<lastmod>2021-09-30T23:50:17+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://edwinetech.tk/v2-ray.html</loc>
-  <lastmod>2021-09-11T19:22:49+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://edwinetech.tk/v2-ray.html</loc>
+<lastmod>2021-09-30T23:50:17+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://edwinetech.tk/stabalizing.html</loc>
-  <lastmod>2021-09-11T19:22:49+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://edwinetech.tk/stabalizing.html</loc>
+<lastmod>2021-09-30T23:50:17+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://edwinetech.tk/droidvpn.html</loc>
-  <lastmod>2021-09-11T19:22:49+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://edwinetech.tk/droidvpn.html</loc>
+<lastmod>2021-09-30T23:50:17+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://edwinetech.tk/finchvpn.html</loc>
-  <lastmod>2021-09-11T19:22:49+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://edwinetech.tk/finchvpn.html</loc>
+<lastmod>2021-09-30T23:50:17+00:00</lastmod>
+<priority>0.64</priority>
 </url>
-
-
 </urlset>
